@@ -1,6 +1,6 @@
 ## Purpose of this site
 
-This site is a project to support the sharing of pay ranges in job adverts. This is important for reasons included on [Show The Pay](showthepay.com).
+This site is a project to support the sharing of pay ranges in job adverts. This is important for reasons included on [Show The Pay](http://showthepay.com).
 
 The following list of companies started after I posted on LinkedIn asking for contributions.
 
