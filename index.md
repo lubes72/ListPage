@@ -1,8 +1,13 @@
-## Welcome
+##Purpose of this site
 
-This list of companies is taken from job adverts I have seen on LinkedIn or on their own website.
+This site is a project to support the sharing of pay ranges in job adverts. This is important for reasons included on [Show The Pay](www.showthepay.com)
 
-I take and share all information on face value. If anyone wants to make corrections or additions you can suggest them using a GitHub pull request. At least until I have the time and energy to come up with an easier method.
+The following list of companies started after I posted on LinkedIn asking for contributions.
+
+I take and share all information on face value. If anyone wants to make corrections or additions, suggest them using a GitHub pull request. 
+
+When I have the time and energy I will come up with an easier method.
+
 
 
 - [Kaluza](https://careers.kaluza.com/open-jobs) 
